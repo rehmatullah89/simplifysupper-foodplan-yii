@@ -1,0 +1,39 @@
+/////////Custom Styles go in here////////////////////
+
+.btn .btn-login{
+    border: red solid;
+    background: none repeat scroll 0 0 #148871 !important;
+    border: 0 none;
+    color: #FFFFFF;
+    font-family: 'Open Sans',sans-serif;
+    height: 34px;
+    list-style: none outside none;
+    opacity: 0.9;
+    padding: 0;
+    text-transform: uppercase;
+    width: 100%;
+    border-radius: 0px;
+}
+.btn .btn-login:hover {
+    background: none repeat scroll 0 0 #148871;
+    cursor: pointer;
+    opacity: 1;
+    text-decoration: none;
+    background: none repeat scroll 0 0 #148871;
+    border: 0 none;
+    color: #FFFFFF;
+    font-family: 'Open Sans',sans-serif;
+    height: 34px;
+    list-style: none outside none;
+    opacity: 0.9;
+    padding: 0;
+    text-transform: uppercase;
+    width: 100%;
+    border-radius: 0px;
+}
+.row-holder .username{
+    border-radius:0px;
+}
+.row-holder .password{
+    border-radius:0px;
+}
